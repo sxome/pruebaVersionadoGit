@@ -9,4 +9,5 @@ public class Casa {
         this.nombre = nombre;
     }
     
+    // Este es un comentario añadido en la branch fase_I
 }
